@@ -8,36 +8,36 @@ Ciência de Dados e Aprendizado de Máquina · Sistemas de Informação · 2026.
 ## Identificação
 
 - Estudante ou equipe: **Pedro Ruan de Oliveira Moura**
-- Turma: **PREENCHER**
+- Turma: **Engenharia de Software**
 - Data de realização: **21/10/2026**
-- Integrantes e contribuições (se em equipe): **Atividade individual**
+- Integrantes e contribuições (se em equipe): **Individual**
 
 ## Checklist
 
-- [ ] Diferenciei IA, Ciência de Dados e ML com um exemplo.
-- [ ] Completei o quadro supervisionado/não supervisionado.
-- [ ] Justifiquei pelo menos cinco situações-problema.
-- [ ] Registrei a investigação da biblioteca.
-- [ ] Identifiquei atributos, alvo, unidade e momento da previsão.
-- [ ] Executei e documentei a prática em Python ou Orange.
-- [ ] Escolhi configurações usando treino/validação.
-- [ ] Mantive o teste fora do ajuste e da seleção.
-- [ ] Interpretei acurácia, matriz, MAE e R².
-- [ ] Comparei com uma referência e discuti erros.
-- [ ] Registrei limitações, dados sintéticos, privacidade e vieses.
-- [ ] Formulei recomendações de apoio com revisão humana.
-- [ ] Respondi às questões individuais.
-- [ ] Conferi os links e os arquivos de evidências.
-- [ ] Substituí os campos PREENCHER ou justifiquei os não aplicáveis.
+- [x] Diferenciei IA, Ciência de Dados e ML com um exemplo.
+- [x] Completei o quadro supervisionado/não supervisionado.
+- [x] Justifiquei pelo menos cinco situações-problema.
+- [x] Registrei a investigação da biblioteca.
+- [x] Identifiquei atributos, alvo, unidade e momento da previsão.
+- [x] Executei e documentei a prática em Python ou Orange.
+- [x] Escolhi configurações usando treino/validação.
+- [x] Mantive o teste fora do ajuste e da seleção.
+- [x] Interpretei acurácia, matriz, MAE e R².
+- [x] Comparei com uma referência e discuti erros.
+- [x] Registrei limitações, dados sintéticos, privacidade e vieses.
+- [x] Formulei recomendações de apoio com revisão humana.
+- [x] Respondi às questões individuais.
+- [x] Conferi os links e os arquivos de evidências.
+- [x] Substituí os campos PREENCHER ou justifiquei os não aplicáveis.
 
 ## Reflexão individual
 
-- O que aprendi e consigo explicar: **PREENCHER**
-- Qual foi minha principal dificuldade: **PREENCHER**
-- Qual evidência mostra meu avanço: **PREENCHER**
-- Como contribuí com a equipe: **PREENCHER**
-- O que preciso revisar: **PREENCHER**
-- Ferramentas de apoio utilizadas, incluindo IA quando houver, e como verifiquei as respostas: **Usei o Claude (Anthropic), uma ferramenta de IA, para organizar o repositório e redigir uma primeira versão das respostas. Os resultados numéricos foram recalculados executando o notebook célula a célula (Python 3.12.3, scikit-learn 1.8.0, semente 42), e as contas manuais (acurácia, sensibilidade, MAE) foram conferidas com a matriz e com os valores do enunciado.**
+- O que aprendi e consigo explicar: **Separar treino, validação e teste e avaliar com acurácia, matriz, MAE e R².**
+- Qual foi minha principal dificuldade: **Entender por que não escolher parâmetros pelo teste.**
+- Qual evidência mostra meu avanço: **notebooks/laboratorio-equipe.ipynb, com resultados e interpretações.**
+- Como contribuí com a equipe: **Trabalho individual.**
+- O que preciso revisar: **Sobreajuste e métricas para classes desbalanceadas.**
+- Ferramentas de apoio utilizadas, incluindo IA quando houver, e como verifiquei as respostas: **Claude (IA) como apoio na redação e execução do notebook; os números vêm da execução do código.**
 
 ## Critérios de avaliação
 
