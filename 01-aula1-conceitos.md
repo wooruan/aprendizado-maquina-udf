@@ -7,8 +7,8 @@ Ciência de Dados e Aprendizado de Máquina · Sistemas de Informação · 2026.
 
 ## Identificação
 
-- Estudante ou equipe: **PREENCHER**
-- Turma: **PREENCHER**
+- Estudante ou equipe: **Pedro Ruan de Oliveira Moura**
+- Turma: **Engenharia de Software**
 - Data de realização: **21/10/2026**
 - Integrantes e contribuições (se em equipe): **Individual**
 
