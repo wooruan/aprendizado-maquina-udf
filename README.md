@@ -10,8 +10,8 @@ Este repositório registra as atividades de introdução ao Machine Learning e d
 ## Identificação do repositório
 
 - Estudante ou equipe: **Pedro Ruan de Oliveira Moura**
-- Turma: **PREENCHER**
-- Repositório: **PREENCHER**
+- Turma: **Engenharia de Software**
+- Repositório: **https://github.com/wooruan/aprendizado-maquina-udf**
 
 ## Atividades
 
@@ -60,7 +60,7 @@ Se preferir criar arquivos diretamente no GitHub, use **Add file > Create new fi
 - [x] PBL Biblioteca em Foco.
 - [x] Aula 2: notebook ou fluxo Orange e relatório.
 - [x] PBL Apoio à Permanência.
-- [ ] Revisão e autoavaliação.
+- [x] Revisão e autoavaliação.
 
 ## Fonte da atividade
 
